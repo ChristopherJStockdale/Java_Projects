@@ -1,0 +1,7 @@
+count of valid numbers: 43
+count of invalid numbers: 2
+count of Vampires: 17
+count of Werewolves: 22
+difference in monster faves: 5
+count of blanks: 0
+count of RBY colors: 0
